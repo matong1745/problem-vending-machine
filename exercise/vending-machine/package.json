@@ -1,5 +1,5 @@
 {
-  "name": "vending-machine",
+  "name": "vending-machine-igear-geek",
   "version": "1.0.0",
   "description": "Nuxt.js project",
   "author": "Noppadol 572115032 <matong1745@gmail.com>",
@@ -13,6 +13,7 @@
     "precommit": "npm run lint"
   },
   "dependencies": {
+    "https": "^1.0.0",
     "nuxt": "^1.0.0"
   },
   "devDependencies": {
